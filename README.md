@@ -1,4 +1,6 @@
-# README
+# Friends List App
+
+This is the first time i have ever created a rails app. I plan on testing out rails more in the future.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
